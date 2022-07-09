@@ -7,6 +7,7 @@ This project was created as part of The Complete JavaScript Course 2021: From Ze
 View at https://hajraata.github.io/bank-app/
 
 Users: 
+
 user: js
 pin: 1111
 
